@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added gama
+=======
+Updated
+>>>>>>> 02aac151f19a38ebd0e6fd52c5ce03b0d46618a4
